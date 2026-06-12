@@ -134,66 +134,62 @@ erDiagram
     PLAYER_NATIONAL_TEAM_PERFORMANCES }o--|| TEAMS_DETAILS : "national team"
 ```
 
-## Methodology
+## Executive Summary
 
-The analysis follows four main steps:
+### Objective
 
-1. **Candidate screening**  
-   Filtered players by position, age, minutes played, and realistic market value.
+Identify affordable centre-forward targets capable of providing depth behind Cucho Hernández while fitting Real Betis' tactical requirements, financial constraints, and long-term recruitment strategy.
 
-2. **Statistical profiling**  
-   Compared players using attacking, creative, pressing, and possession-related metrics.
+### Recommended Shortlist
 
-3. **Cucho-style comparison**  
-   Evaluated which players most closely resemble Cucho Hernández's statistical and tactical profile.
+| Rank | Player | Betis Fit Score | Cucho Fit Score | Current Market Value (€M) | Projected Market Value (€M) | Recommendation |
+|:---:|---|:---:|:---:|:---:|:---:|---|
+| 1 | Benedict Hollerbach | XX | XX | XX | XX | Primary target |
+| 2 | Santiago Castro | XX | XX | XX | XX | High-upside development option |
+| 3 | Lucas Stassin | XX | XX | XX | XX | Finishing-focused alternative |
+| 4 | Christantus Uche | XX | XX | XX | XX | Pressing and work-rate specialist |
+| 5 | Lorenzo Colombo | XX | XX | XX | XX | Lower-cost depth option |
 
-4. **Recruitment ranking**  
-   Combined performance indicators with market value to identify cost-effective targets.
+### Key Findings
 
-## Key Findings
+- Benedict Hollerbach emerged as the strongest overall candidate when balancing tactical fit, age profile, market value, and projected development.
 
-Ignoring the Betis Priority Score and Cucho Fit Score, the players who most resemble Cucho Hernández stylistically are:
+- Santiago Castro demonstrated the closest stylistic resemblance to Cucho Hernández and offers substantial long-term upside.
 
-| Rank | Player | Why He Fits |
-|---:|---|---|
-| 1 | Santiago Castro | Mobile striker, active presser, involved outside the box |
-| 2 | Christantus Uche | Strong physical profile, high work rate, disruptive movement |
-| 3 | Nick Woltemade | Excellent link-up play and ball progression |
-| 4 | Lucas Stassin | Strong attacking profile but more goal-focused |
-| 5 | Breel Embolo | Physical, experienced, useful stylistic overlap |
+- Lucas Stassin provides the strongest finishing profile among the shortlisted players.
 
-## Top Recommendation
+- Christantus Uche stands out for his pressing intensity and defensive contribution.
 
-**Santiago Castro** appears to be the closest stylistic comparison to Cucho Hernández.
+- Lorenzo Colombo represents a lower-cost option capable of providing squad depth while maintaining resale potential.
 
-He is not just a penalty-box striker. His value comes from movement, pressing, link-up play, and involvement in attacking sequences outside the box.
+### Head Scout Recommendation
 
-## Tools Used
+**Primary Recommendation: Benedict Hollerbach**
 
-- R
-- tidyverse
-- ggplot2
-- Quarto
-- GitHub
+Hollerbach combines strong pressing intensity, high work rate, and an attacking profile that closely aligns with Real Betis' tactical requirements. His age, market value, and projected development trajectory make him the most attractive overall recruitment target among the shortlisted candidates.
 
-## Repository Structure
+**Alternative Recommendation: Santiago Castro**
 
-```text
-betis-striker-recruitment/
-│
-├── README.md
-├── report/
-│   └── betis_recruitment_report.pdf
-│
-├── images/
-│   ├── workflow.png
-│   ├── radar_castro.png
-│   ├── radar_uche.png
-│   └── radar_woltemade.png
-│
-├── scripts/
-│   ├── data_cleaning.R
-│   ├── similarity_model.R
-│   └── visualizations.R
-│
-└── data/
+If greater emphasis is placed on stylistic similarity to Cucho Hernández and long-term resale value, Castro represents the strongest alternative option.
+
+## Candidate Profiles
+
+### 1. Benedict Hollerbach
+
+<p align="center">
+  <img src="hollerbach_profile.png" 
+       alt="Benedict Hollerbach player profile" 
+       width="900">
+</p>
+
+### 2. Santiago Castro
+[radar chart]
+
+### 3. Lucas Stassin
+[radar chart]
+
+### 4. Christantus Uche
+[radar chart]
+
+### 5. Lorenzo Colombo
+[radar chart]
