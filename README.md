@@ -1,4 +1,4 @@
-<img width="2700" height="1950" alt="benedict-hollerbach_vs_all_references" src="https://github.com/user-attachments/assets/e4f0462f-6837-407d-a8bd-2e216ed4b460" />
+
 # Recruitment Analytics for CF Real Betis  
 ## Identifying Cost-Effective Rotation Striker Targets
 
@@ -169,6 +169,10 @@ erDiagram
 | 4 | Christantus Uche | 74 | 64 | 5 | 10 | Pressing and work-rate specialist |
 | 5 | Lorenzo Colombo | 60 | 59 | 6 | 9 | Lower-cost depth option |
 
+*Betis priority score = 70% tactical fit + 30% projected market growth. Tactical fit is built from FBref percentile-style indicators for pressing, link-up play, finishing, progression, and work rate; projected market growth comes from the selected one-year market-value model.*
+
+*Cucho fit score = 25% pressing + 25% link-up play + 20% finishing + 15% progression + 15% work rate. Each component is built from FBref percentile-style indicators, so the score reflects how closely a forward matches the desired Cucho Hernández-style centre-forward profile.*
+
 
 ### Head Scout Recommendation
 
@@ -182,13 +186,42 @@ If greater emphasis is placed on stylistic similarity to Cucho Hernández and lo
 
 ## Candidate Profiles
 
-### 1. Benedict Hollerbach
+### 1. Benedict Hollerbach 
 
-<p align="center">
-  <img src="hollerbach_profile.png" 
-       alt="Benedict Hollerbach player profile" 
-       width="900">
-</p>
+**Snapshot:** Age 23 | Centre-forward | Both-footed | 181 cm | 1.FSV Mainz 05 | Bundesliga  
+
+**Recommendation:** Priority 1 - scout live for link-up play and back-to-goal actions.  
+
+**Scout note:** High-energy forward with strong pressing and work-rate indicators; finishing profile is solid, but link-up play sits below the preferred Betis benchmark.
+
+| Metric | Value |
+|---|---:|
+| Current value | EUR 6.0m |
+| Predicted 2025/26 value | EUR 9.3m |
+| Expected growth | +54% |
+| Minutes played | 2,540 |
+| Non-penalty xG/90 | 0.25 |
+| xA/90 | 0.08 |
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/5da79b2f-fb00-497e-b33f-b4913ea71444"
+        alt="Benedict Hollerbach market value path"
+        width="500"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/e4f0462f-6837-407d-a8bd-2e216ed4b460"
+        alt="Benedict Hollerbach radar chart"
+        width="500"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ### 2. Santiago Castro
 [radar chart]
