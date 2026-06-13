@@ -1,3 +1,4 @@
+<img width="2700" height="1950" alt="benedict-hollerbach_vs_all_references" src="https://github.com/user-attachments/assets/e4f0462f-6837-407d-a8bd-2e216ed4b460" />
 # Recruitment Analytics for CF Real Betis  
 ## Identifying Cost-Effective Rotation Striker Targets
 
