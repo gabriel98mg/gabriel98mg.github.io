@@ -136,21 +136,17 @@ erDiagram
 
 ## Executive Summary
 
-### Objective
-
-Identify affordable centre-forward targets capable of providing depth behind Cucho Hernández while fitting Real Betis' tactical requirements, financial constraints, and long-term recruitment strategy.
-
-### Recommended Shortlist
-
-| Rank | Player | Betis Fit Score | Cucho Fit Score | Current Market Value (€M) | Projected Market Value (€M) | Recommendation |
-|:---:|---|:---:|:---:|:---:|:---:|---|
-| 1 | Benedict Hollerbach | XX | XX | XX | XX | Primary target |
-| 2 | Santiago Castro | XX | XX | XX | XX | High-upside development option |
-| 3 | Lucas Stassin | XX | XX | XX | XX | Finishing-focused alternative |
-| 4 | Christantus Uche | XX | XX | XX | XX | Pressing and work-rate specialist |
-| 5 | Lorenzo Colombo | XX | XX | XX | XX | Lower-cost depth option |
-
 ### Key Findings
+
+- The league coefficients suggest a clear Premier League premium. Holding player quality and context constant, forwards outside England’s top flight were expected to generate lower one-year market-value growth, supporting the idea that comparable Premier League players carry an additional market premium.
+
+| League | Log coefficient | Growth multiplier vs Premier League | Approx. difference |
+|---|---:|---:|---:|
+| La Liga | -0.179 | 0.84x | 16.4% lower |
+| Ligue 1 | -0.299 | 0.74x | 25.8% lower |
+| Bundesliga | -0.281 | 0.76x | 24.5% lower |
+| Serie A | -0.262 | 0.77x | 23.1% lower |
+
 
 - Benedict Hollerbach emerged as the strongest overall candidate when balancing tactical fit, age profile, market value, and projected development.
 
@@ -161,6 +157,17 @@ Identify affordable centre-forward targets capable of providing depth behind Cuc
 - Christantus Uche stands out for his pressing intensity and defensive contribution.
 
 - Lorenzo Colombo represents a lower-cost option capable of providing squad depth while maintaining resale potential.
+
+### Recommended Shortlist
+
+| Rank | Player | Betis Fit Score | Cucho Fit Score | 2024-25 Market Value (€M) | 2025-26 Projected Market Value (€M) | Recommendation |
+|:---:|---|:---:|:---:|:---:|:---:|---|
+| 1 | Benedict Hollerbach | 72 | 74 | 6 | 9 | Primary target |
+| 2 | Santiago Castro | 63 | 53 | 12 | 23 | High-upside development option |
+| 3 | Lucas Stassin | 73 | 62 | 5 | 13 | Finishing-focused alternative |
+| 4 | Christantus Uche | 74 | 64 | 5 | 10 | Pressing and work-rate specialist |
+| 5 | Lorenzo Colombo | 60 | 59 | 6 | 9 | Lower-cost depth option |
+
 
 ### Head Scout Recommendation
 
